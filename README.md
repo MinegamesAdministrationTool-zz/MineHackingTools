@@ -25,6 +25,16 @@ i will make more Crypters in the feature.
 </a>
 
 # Ransomware Building Form
+Anti-Debugging via Debugger.IsAttached, IsDebuggerPresent, CheckRemoteDebuggerPresent.
+
+Anti Virtual Machine.
+
+Send PC Data to a discord webhook including: IP Address, Encryption Key, OS, Unique User ID, etc.....
+
+Strong AES-256 CBC Randomized Key Encryption.
+
+Anti-Termination Through making the process Critical.
+
 <a href="#">
 <img width="493" alt="RansomwareBuildingForm" src="https://user-images.githubusercontent.com/79325904/131066461-530cf435-efd7-4b95-95c2-3343e32891f1.PNG">
 </a>
