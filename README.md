@@ -31,4 +31,4 @@ i will make more Cryptors in the feature.
 
 here's detections in kleenscan and antiscan.me https://kleenscan.com/scan_result/d7d6ad19c0a57f7f78c186aca6ae44ebfa70e1d3d04aa75668bf545e3a496ffe | https://antiscan.me/scan/new/result?id=W54VYjaovxyw and it succesfully evaded from most AV's that most people use like AVG and Avast, etc....
 
-but i don't think the detection will be the same in the feature because i released it xD
+but i don't think the detection will be the same in the feature because i released it xD but don't worry i will keep updating the cryptors and the obfuscastor to evade detection.
