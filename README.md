@@ -3,7 +3,7 @@ this tool are for educational purposes only please do not hack anyone, infect an
 
 # MineHackingTools
 This tool includes hash cracking that supports: MD5, SHA1, SHA256, SHA384, SHA512, HMAC-MD5, HMAC-SHA1, HMAC-SHA256, HMAC-SHA-384, HMAC-SHA512 
-and includes exploits form (which doesn't have a lot of exploits but i will add more soon), and it's have crypter form which can pack your malware and you can obfuscaste your malware too, so even if the malware have been unpacked the code will be obfuscasted, and there's a ransomware building form which generates advanced ransomware which sends the keys and PC Information back to you using a discord webhook and it encrypts: Desktop Path, Documents, Pictures, and then looks for other drives other than C Drive to encrypt.
+and includes exploits form (which doesn't have a lot of exploits but i will add more soon), and it's have crypter form which can pack your malware and you can obfuscaste your malware too, so even if the malware have been unpacked the code will be obfuscasted, and there's a ransomware building form which generates advanced ransomware which sends the keys and PC Information back to you using a discord webhook and it encrypts: Desktop Path, Documents, Pictures, and then looks for other drives except C Drive to encrypt.
 
 # Hash Cracking Form
 
