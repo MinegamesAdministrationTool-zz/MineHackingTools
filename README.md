@@ -1,5 +1,5 @@
 # Discalimer
-this tool are for educational purposes only please do not hack anyone, infect them with malware, etc... without his permission.
+this tool are for educational purposes only please do not hack anyone, infect anyone with malware, etc... without permission.
 
 # MineHackingTools
 This tool includes hash cracking that supports: MD5, SHA1, SHA256, SHA384, SHA512, HMAC-MD5, HMAC-SHA1, HMAC-SHA256, HMAC-SHA-384, HMAC-SHA512 
