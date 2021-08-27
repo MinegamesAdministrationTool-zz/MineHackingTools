@@ -35,6 +35,8 @@ Strong AES-256 CBC Randomized Key Encryption.
 
 Anti-Termination Through making the process Critical.
 
+Your WebHook are highly encrypted on disk.
+
 <a href="#">
 <img width="493" alt="RansomwareBuildingForm" src="https://user-images.githubusercontent.com/79325904/131066461-530cf435-efd7-4b95-95c2-3343e32891f1.PNG">
 </a>
