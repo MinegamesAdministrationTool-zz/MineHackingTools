@@ -17,8 +17,8 @@ and includes exploits form (which doesn't have a lot of exploits but i will add 
 <img width="402" alt="ExploitsForm" src="https://user-images.githubusercontent.com/79325904/131066253-00a1cd2d-1b19-444f-8493-ad943d628d07.PNG">
 </a>
 
-# Cryptor Form
-i will make more Cryptors in the feature.
+# Crypter Form
+i will make more Crypters in the feature.
 
 <a href="#">
 <img width="418" alt="CrypterForm" src="https://user-images.githubusercontent.com/79325904/131066371-9a895faf-922c-4be6-b455-b0b1c30717b6.PNG">
