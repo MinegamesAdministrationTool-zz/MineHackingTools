@@ -28,3 +28,5 @@ i will make more Cryptors in the feature.
 <a href="#">
 <img width="493" alt="RansomwareBuildingForm" src="https://user-images.githubusercontent.com/79325904/131066461-530cf435-efd7-4b95-95c2-3343e32891f1.PNG">
 </a>
+
+here's detections in kleenscan and antiscan.me https://kleenscan.com/scan_result/d7d6ad19c0a57f7f78c186aca6ae44ebfa70e1d3d04aa75668bf545e3a496ffe | https://antiscan.me/scan/new/result?id=W54VYjaovxyw and it succesfully evaded from most AV's that most people use like AVG and Avast, etc....
